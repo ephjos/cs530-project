@@ -9,19 +9,19 @@
   <img src="./screenshots/createProject.png" />
 </p>
 <p align="center">
-  <img src="./screenshots/project.gif" />
+  <img src="./screenshots/project.png" />
 </p>
 <p align="center">
-  <img src="./screenshots/modifiedProject.gif" />
+  <img src="./screenshots/modifiedProject.png" />
 </p>
 <p align="center">
-  <img src="./screenshots/analytics.gif" />
+  <img src="./screenshots/analytics.png" />
 </p>
 <p align="center">
-  <img src="./screenshots/person.gif" />
+  <img src="./screenshots/person.png" />
 </p>
 <p align="center">
-  <img src="./screenshots/report.gif" />
+  <img src="./screenshots/report.png" />
 </p>
 
 <br>
